@@ -1,18 +1,17 @@
 {
   "name": "hands-on",
   "main": "./lib/hands-on",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Keep your hands on the keyboard plugin for atom",
   "keywords": [
-      "hotkey",
-      "navigation",
-      "performance"
+    "hotkey",
+    "navigation",
+    "performance"
   ],
   "repository": "https://github.com/asvd/hands-on",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
