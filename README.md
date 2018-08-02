@@ -13,7 +13,9 @@ This is not just an additional key-binding (otherwise you would not need the **h
 
 ### Installation
 
-Open **Settings** in Atom <kbd>**Ctrl**+**,**</kbd> and select **Install** section on the right side. Search for **hands-on** and click **Install** button. Or with the command line:
+Open **Settings** in Atom <kbd>**Ctrl**+**,**</kbd> and select **Install** section on the right side. Search for **hands-on** and click **Install** button.
+
+Or with the command line:
 
 ```sh
 $ apm install hands-on
@@ -24,7 +26,7 @@ $ apm install hands-on
 
 Some key combinations can be taken over by your desktop environment (for instance, <kbd>**Ctrl**+**AltGr**+**L**</kbd> can lock the screen). In such cases, the keystrokes will not reach atom, of course. Disable or reassign such keystrokes in desktop settings if you wish to use them within atom.
 
-Same applies to the <kbd>**AltGr**</kbd> key that on some layouts enables input of additional sybmols. In that case, the <kbd>**AltGr**</kbd> button itself does not emit keyboard events that could be handled by atom. You can disable such layout features, or, if you wish to have those as well, use another key (<kbd>**Meta**</kbd> or <kbd>☰</kbd>) as **hands-on** mode activator.
+Same applies to the <kbd>**AltGr**</kbd> key that on some layouts enables input of diatrical marks for the letters that follow. In this case, the <kbd>**AltGr**</kbd> keypress is taken over and does not reach atom. You can disable such layout features, or, if you wish to have those as well, use another key (<kbd>**Meta**</kbd> or <kbd>☰</kbd>) as **hands-on** mode activator.
 
 ---
 
