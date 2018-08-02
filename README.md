@@ -3,7 +3,7 @@
 
 **Hands-on** for atom puts navigation and control keys under the right hand, where it is normally located when typing. Therefore you can keep your hands in the same position even when performing navigation actions:
 
-<img src=hands-on.svg/>
+![A keyboard](https://asvd.github.io/atom/hands-on.svg)
 
 **Hands-on** mode is activated when you hold the modifier key right next to the spacebar. This can be <kbd>**AltGr**</kbd>, <kbd>**Meta**</kbd> or <kbd>☰</kbd> on different keyboards (all of these keys work). When the mode is active, some of the letters act as navigation keys. For instance, by pressing <kbd>**AltGr**+**L**</kbd> you move cursor one position up.
 
