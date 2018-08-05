@@ -1,12 +1,14 @@
 'use babel';
 
 /**
- * hands-on for atom
+ * @fileoverview hands-on for atom
+ * @version 0.1.4
  *
- * v0.1.4
+ * @description Arranges distance key on to a middle of keyboard when
+ *              holding the right Alt (or a key right of the spacebar)
  *
- * Arranges distance key on to a middle of keyboard when holding the
- * right Alt (or a key right of the spacebar)
+ * @license MIT, see http://github.com/asvd/hands-on
+ * @copyright 2018 asvd <heliosframework@gmail.com>
  */
 
 

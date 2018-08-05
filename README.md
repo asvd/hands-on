@@ -36,4 +36,6 @@ The base navigation line layout <kbd>←</kbd> <kbd>↓</kbd> <kbd>↑</kbd> <kb
 
 ---
 
-Follow me on twitter: https://twitter.com/asvd0
+https://asvd.github.io/
+
+https://twitter.com/asvd0
