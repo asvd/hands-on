@@ -1,5 +1,5 @@
 **Hands-on** for atom
-=================
+=====================
 
 **Hands-on** for atom puts navigation and control keys under the right hand, where it is normally located when typing. Therefore you can keep your hands in the same position even when performing navigation actions:
 
