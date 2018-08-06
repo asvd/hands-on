@@ -2,7 +2,7 @@
 
 /**
  * @fileoverview hands-on for atom
- * @version 0.1.4
+ * @version 0.1.5
  *
  * @description Arranges distant keys on to a middle of keyboard when
  *              holding the right Alt (or a key right of the spacebar)

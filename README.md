@@ -5,10 +5,13 @@
 
 ![A keyboard](https://asvd.github.io/atom/hands-on.svg)
 
-**Hands-on** mode is activated when you hold the modifier key right next to the spacebar. This can be <kbd>**AltGr**</kbd>, <kbd>**Meta**</kbd> or <kbd>☰</kbd> on different keyboards (all of these keys work). When the mode is active, some of the letters act as navigation keys. For instance, by pressing <kbd>**AltGr**+**L**</kbd> you move cursor one position up.
+**Hands-on** mode is activated when you hold the modifier key right next to the spacebar. This can be <kbd>**AltGr**</kbd>, <kbd>**Meta**</kbd> or <kbd>☰</kbd> on different keyboards (all of these keys work). When the mode is active, some of the letters act as navigation keys.
 
-This is not just an additional key-binding (otherwise you would not need the **hands-on** package for that). Instead, **hands-on** actually simulates a keyboard event for the <kbd>↑</kbd> key. That is, all the commands bound to respective command keys will also work. For instance, you can press <kbd>**Ctrl**+**AltGr**+**K**</kbd> that will be treated as <kbd>**Ctrl**+↓</kbd> and invoke <kbd>Editor: Move Line Down</kbd>.
+For instance, by pressing <kbd>**AltGr**+**L**</kbd> you move cursor one position up. This is not just an additional key-binding (otherwise you would not need the **hands-on** package for that). Instead, **hands-on** actually simulates a keyboard event for the <kbd>↑</kbd> key.
 
+That is, all the commands bound to respective command keys will also work. This way you can invoke a lot of commands beyond simply moving the caret. For instance pressing <kbd>**Ctrl**+**AltGr**+**K**</kbd> is treated as <kbd>**Ctrl**+↓</kbd> and invokes <kbd>Editor: Move Line Down</kbd>. Similarly <kbd>Ctrl + AltGr + [</kbd> is magically converted into <kbd>Ctrl + Delete</kbd> performing <kbd>Editor: Delete To End Of Word</kbd>, and so on.
+
+**Hands-on** is layout-agnostic, meaning that it is tied to physical keys and always resides under your right hand as shown on the image above, even if you use Dvorak for Programmers.
 
 
 ### Installation
